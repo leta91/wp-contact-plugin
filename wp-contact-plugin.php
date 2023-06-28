@@ -7,3 +7,8 @@
  * Version: 1.0.0
  * Text Domain: wp-contact-plugin
  */
+
+if ( !defined ('ABSPATH') )
+{
+    exit;
+}
